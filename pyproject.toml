@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "Automation"
+name = "automation"
 version = "0.1.0"
 description = ""
-authors = ["feras98nawafleh <feras.a.nawafleh@gmail.com>"]
+authors = ["yousef-alramli <ysabdys1996@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
